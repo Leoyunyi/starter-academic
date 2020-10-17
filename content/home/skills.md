@@ -14,7 +14,7 @@ subtitle = "What I can do and what I'm still learning"
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-# [[feature]]
+ [[feature]]
   icon = "language"
   icon_pack = "fab"
   name = "Language"
