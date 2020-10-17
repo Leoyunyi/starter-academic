@@ -7,6 +7,6 @@ location = "Tencent Class"
 description = "A presentation on the evolutionary CPTPP."
 slug = "the-evolutionary-cptpp"
 tags = ["CPTPP", "FTAs"]
-title = "The Evolutionary Comprehensive And Progressive Aggrement For Trans-Pacific Partnership"
+title = "The Evolutionary Comprehensive and Progressive Aggrement for Trans-Pacific Partnership"
 
 +++
