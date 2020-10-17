@@ -46,25 +46,37 @@ subtitle = "What I can do and what I'm still learning"
   icon = "language"
   icon_pack = "custom"
   name = "Language"
-  description = "<ul><li>Chinese (Native)</li><br><li>English (Proficient)</li><br><li>French (Beginner)</li></ul> "
+  description = "Chinese (Native)<br>English (Proficient)<br>French (Beginner)"
 
  [[feature]]
   icon = "office"
   icon_pack = "custom"
   name = "Microsoft Office"
-  description = "Word (Good)<br>PowerPoint (Excellent)<br>Excel (Good)"
+  description = "Word (Good)<br>PowerPoint (Pro)<br>Excel (Good)"
   
   
  [[feature]]
   icon = "creative-cloud"
   icon_pack = "custom"
   name = "Adobe Creative Cloud"
-  description = "PhotoShop (Good)<br>Illustrator (Good)<br> InDesign (good)"
+  description = "PhotoShop (Good)<br>Illustrator (Good)<br> InDesign (Good)<br>Adobe Premiere Pro (Good)<br>After Effects (Well)"
 
  [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Learning"
+  
+ [[feature]]
+  icon = "markdown"
+  icon_pack = "fab"
+  name = "Markdown"
+  description = "Learning"
+
+ [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Learning"
 
 +++
