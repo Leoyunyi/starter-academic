@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: BEc in International Economics and Trade
-    institution: Stanford University
+    institution: Shanghai Sanda University
     year: 2022
 
 # Social/Academic Networking
