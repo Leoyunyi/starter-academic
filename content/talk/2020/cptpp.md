@@ -1,7 +1,7 @@
 +++
 
 categories = ["Presentation"]
-date = "April 26 2020 9:40 AM - 9:48 AM"
+date = "2020-04-26T09:40-9:48"
 class = "430128: International Economics (Bilingual)"
 teacher = "Meng Haiying"
 location = "Tencent Meeting"
