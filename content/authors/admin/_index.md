@@ -18,7 +18,7 @@ organizations:
   url: "https://www.sandau.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include international trade, cross-border E-commerce and property protection.
 
 interests:
 - International trade
@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Liu Yunyi is a student of international economics and trade at [Shengxiang School](https://www.sandau.edu.cn/english/830/list.htm) of Business of Shanghai Sanda University. His research interests include international trade, cross-border E-commerce and property protection. He is a member of a research group led by Assoc. Prof. [Jin Zhuiqiao](https://orcid.org/0000-0002-8473-0451), named "Research on the Marginal Impact of Intellectual Property Rights Protection on Export Expansion — A Perspective on High Technology Products under the Framework of the Belt and Road Cooperation, which is a 2019 Shanghai Philosophy and Social Science Planning Project （2019BJB014), and is funded by Shanghai Academy of Social Science.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is also the administrator of the lab of International Economics and Trade, and the operator of the on-campus English learning portal — [2Socks.net](https://2socks.net).
