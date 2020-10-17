@@ -46,7 +46,6 @@ subtitle = "What I can do and what I'm still learning"
   icon = "language"
   icon_pack = "custom"
   name = "Language"
-  description = "* Chinese (Native) * English (Proficient) * French (Beginner)
-  "
+  description = "* Chinese (Native) * English (Proficient) * French (Beginner)"
 
 +++
