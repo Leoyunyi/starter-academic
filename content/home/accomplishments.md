@@ -21,31 +21,31 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Shanghai Sanda University"
   organization_url = "https://www.sandau.edu.cn/"
-  title = "Xie Xide Scholarship"
+  title = "Xie Xide Scholarship · First prize"
   url = "https://news.sandau.edu.cn/2020/0428/c1218a38271/page.htm"
   certificate_url = ""
   date_start = "2020-09-25"
   date_end = ""
-  description = "First prize"
+  description = ""
 
 [[item]]
   organization = "IATEFL · TEFL China and College English Teaching & Research Association of China"
   organization_url = "http://www.tefl-china.cn/"
-  title = "2019 National English Competition for College Students (NECCS)"
+  title = "2019 National English Competition for College Students (NECCS) · Third prize"
   url = "http://www.chinaneccs.cn/"
   certificate_url = "https://www.edx.org"
   date_start = "2019-05-12"
   date_end = ""
-  description = "Third prize"
+  description = ""
   
 [[item]]
   organization = "Shanghai Sanda University"
   organization_url = "https://www.sandau.edu.cn/"
-  title = "Xie Xide Scholarship"
+  title = "Xie Xide Scholarship · Second prize of English"
   url = "https://news.sandau.edu.cn/2019/1113/c1218a35860/page.htm"
   certificate_url = "https://news.sandau.edu.cn/_upload/article/files/4e/5c/d2c7fac64bdd94e2dc4b345b4ec7/6ee74e87-93b9-47a1-89f5-6c9026b104ae.pdf"
   date_start = "2019-11-13"
   date_end = ""
-  description = "Second prize of English"
+  description = ""
 
 +++
