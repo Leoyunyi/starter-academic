@@ -42,7 +42,7 @@ subtitle = "What I can do and what I'm still learning"
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
- [[feature]]
+# [[feature]]
 #  icon = "language"
 #  icon_pack = "custom"
 #  name = "Language"
