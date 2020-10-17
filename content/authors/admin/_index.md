@@ -70,6 +70,6 @@ user_groups:
 
 Liu Yunyi is a student of international economics and trade at [School of Business](https://www.sandau.edu.cn/english/830/list.htm) of Shanghai Sanda University. His research interests include international trade, cross-border E-commerce and property protection.
 
-He is a member of a research group led by Assoc. Prof. [Jin Zhuiqiao](https://orcid.org/0000-0002-8473-0451), named "Research on the Marginal Impact of Intellectual Property Rights Protection on Export Expansion — A Perspective on High Technology Products under the Framework of the Belt and Road Cooperation, which is a 2019 Shanghai Philosophy and Social Science Planning Project （2019BJB014), and is funded by Shanghai Academy of Social Science.
+He is a member of a research group led by Assoc. Prof. [Jin Zhuiqiao](https://orcid.org/0000-0002-8473-0451), named "Research on the Marginal Impact of Intellectual Property Rights Protection on Export Expansion — A Perspective on High Technology Products under the Framework of the Belt and Road Cooperation", which is a 2019 Shanghai Philosophy and Social Science Planning Project (2019BJB014), and is funded by Shanghai Academy of Social Science.
 
 He is also the administrator of the lab of International Economics and Trade, and the operator of the on-campus English learning portal — [2Socks.net](https://2socks.net).
