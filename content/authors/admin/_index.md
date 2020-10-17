@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:f18021525@st.sandau.edu.cn".
+  link: '#mailto:f18021525@st.sandau.edu.cn'  # For a direct email link, use "mailto:f18021525@st.sandau.edu.cn".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/liuyunyi/
