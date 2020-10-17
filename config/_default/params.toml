@@ -97,7 +97,7 @@ address = {street = "No.2727 Jinhai Road", city = "Shanghai", region = "CN-SH", 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "31.266888, longitude = "121.659030"}
+coordinates = {latitude = "31.266888", longitude = "121.659030"}
 
 # Directions for visitors to locate you.
 directions = "Enter Building 8 and take the lift to 8601 on Floor 6"
