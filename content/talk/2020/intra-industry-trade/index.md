@@ -7,6 +7,6 @@ location = "Tencent Class"
 description = "Why IntraIndustry Trade Happens and its conditions."
 slug = "australian-dairy-products"
 tags = ["Intra-industry trade"]
-title = "title = "Intra Industry Trade"
+title = "Intra Industry Trade"
 
 +++
