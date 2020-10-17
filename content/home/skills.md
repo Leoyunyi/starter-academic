@@ -15,10 +15,10 @@ subtitle = "What I can do and what I'm still learning"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 # [[feature]]
-#  icon = "r-project"
-#  icon_pack = "fab"
-#  name = "R"
-#  description = "90%"
+  icon = "language"
+  icon_pack = "fab"
+  name = "Language"
+  description = "Chinese (Native)<br>English (Proficient)<br>French (Beginner)"
   
 # [[feature]]
 #  icon = "chart-line"
@@ -43,10 +43,10 @@ subtitle = "What I can do and what I'm still learning"
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
  [[feature]]
-  icon = "language"
-  icon_pack = "custom"
-  name = "Language"
-  description = "Chinese (Native)<br>English (Proficient)<br>French (Beginner)"
+#  icon = "language"
+#  icon_pack = "custom"
+#  name = "Language"
+#  description = "Chinese (Native)<br>English (Proficient)<br>French (Beginner)"
 
  [[feature]]
   icon = "office"
