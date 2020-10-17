@@ -16,7 +16,7 @@ subtitle = "What I can do and what I'm still learning"
 
  [[feature]]
   icon = "language"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Language"
   description = "Chinese (Native)<br>English (Proficient)<br>French (Beginner)"
   
