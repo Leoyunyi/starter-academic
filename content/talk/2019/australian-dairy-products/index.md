@@ -6,7 +6,7 @@ event = "434308: International Trade Theory"
 location = "2-102 @ Shanghai Sanda University"
 description = "A presentation on the trade of Australian dairy products towards China."
 slug = "australian-dairy-products"
-tags = ["CPTPP", "FTAs"]
+tags = ["Australia", "FTAs"]
 title = "Current status and outlook of Australian dairy exports to China"
 
 +++
