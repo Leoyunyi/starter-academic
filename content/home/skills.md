@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = "What I can do and what I'm still learning"
 
 # Showcase personal skills or business features.
 # 
@@ -26,11 +26,11 @@ subtitle = ""
   name = "Statistics"
   description = "100%"  
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+# [[feature]]
+#  icon = "camera-retro"
+#  icon_pack = "fas"
+#  name = "Photography"
+#  description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
@@ -42,10 +42,14 @@ subtitle = ""
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# [[feature]]
-#  icon = "your-custom-icon-name"
-#  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
+ [[feature]]
+  icon = "language"
+  icon_pack = "custom"
+  name = "Language"
+  description = "
+  * Chinese (Native)
+  * English (Proficient)
+  * French (Beginner)
+  "
 
 +++
