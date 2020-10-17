@@ -14,17 +14,17 @@ subtitle = "What I can do and what I'm still learning"
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+# [[feature]]
+#  icon = "r-project"
+#  icon_pack = "fab"
+#  name = "R"
+#  description = "90%"
   
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+# [[feature]]
+#  icon = "chart-line"
+#  icon_pack = "fas"
+#  name = "Statistics"
+#  description = "100%"  
   
 # [[feature]]
 #  icon = "camera-retro"
@@ -46,6 +46,25 @@ subtitle = "What I can do and what I'm still learning"
   icon = "language"
   icon_pack = "custom"
   name = "Language"
-  description = "Chinese (Native)<br>English (Proficient)<br>French (Beginner)"
+  description = "<ul><li>Chinese (Native)</li><br><li>English (Proficient)</li><br><li>French (Beginner)</li></ul> "
+
+ [[feature]]
+  icon = "office"
+  icon_pack = "custom"
+  name = "Microsoft Office"
+  description = "Word (Good)<br>PowerPoint (Excellent)<br>Excel (Good)"
+  
+  
+ [[feature]]
+  icon = "creative-cloud"
+  icon_pack = "custom"
+  name = "Adobe Creative Cloud"
+  description = "PhotoShop (Good)<br>Illustrator (Good)<br> InDesign (good)"
+
+ [[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = "90%"
 
 +++
