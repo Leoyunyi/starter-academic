@@ -7,7 +7,7 @@ location = "8-601 @ Shanghai Sanda University"
 description = "A presentation on the Michael E. Porter's five forces."
 slug = "the-five-forces"
 tags = ["Strategy", "Article review"]
-title = "The Evolutionary Comprehensive and Progressive Aggrement for Trans-Pacific Partnership"
+title = "An Article Review of The Five Competitive Forces That Shape Strategy"
 
 +++
 
